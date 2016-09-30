@@ -29,9 +29,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Here's a walkthrough of not this app:
+Here's a walkthrough of this app:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://imgur.com/a/if9hm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF not yet created. An option should be offered for people without Windows or OSX access.
 
